@@ -1,5 +1,13 @@
 {
 	"users": [
 
+	],
+	"products": [
+		{
+		"id":1,
+		"name": "HP Victus Gaming 16-r0012ua",
+		"photo_url": "https://content1.rozetka.com.ua/goods/images/big/380708942.jpg",
+		"price": 60000
+		}
 	]
 }
