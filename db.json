@@ -13,6 +13,30 @@
 		"name": "HP Victus Gaming 16-r0012ua",
 		"photo_url": "https://content1.rozetka.com.ua/goods/images/big/380708942.jpg",
 		"price": 60000
-		}
+		},
+		{
+		"id":2,
+		"name": "Apple iPhone 16 Pro 256GB",
+		"photo_url": "https://content2.rozetka.com.ua/goods/images/big/468886490.jpg",
+		"price": 65000
+		},
+		{
+		"id":3,
+		"name": "Пральна машина LG F4V3RS0WW",
+		"photo_url": "https://content.rozetka.com.ua/goods/images/big/324400905.jpg",
+		"price": 300000
+		},
+		{
+		"id":4,
+		"name": "Фен ECG Modifica Sonica",
+		"photo_url": "https://content.rozetka.com.ua/goods/images/big/488310968.jpg",
+		"price": 127000
+		},
+		{
+		"id":5,
+		"name": "Прасувальний каток GMP e² 140.25",
+		"photo_url": "https://content1.rozetka.com.ua/goods/images/big/406060409.jpg",
+		"price": 260000
+		},
 	]
 }
