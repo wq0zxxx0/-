@@ -4,8 +4,28 @@
 			"id": 1,
 			"name": "Andriy",
 			"surname": "Moskalenko",
+			"photo_url": "https://raw.githubs...",
+			"balance": 1500
 			
-		}
+		},
+		{
+			"id": 2,
+			"name": "Artem",
+			"surname": "Didyk",
+			"photo_url": "https://raw.githubs...",
+			"balance": 2000
+			
+		},
+		{
+			"id": 1,
+			"name": "Danya",
+			"surname": "Okuny",
+			"photo_url": "https://raw.githubs...",
+			"balance": 3000
+			
+		},
+		
+
 	],
 	"products": [
 		{
